@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center">
+  <a href="https://github.com/myname31"><img src="https://github-readme-stats.vercel.app/api?username=myname31&theme=tokyonight&show_icons=true" /></a>
+</p>
+
 <!--
 **myname31/myname31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
