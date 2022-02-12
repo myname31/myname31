@@ -6,6 +6,8 @@
   <a href="https://github.com/myname31"><img src="https://github-readme-stats.vercel.app/api?username=myname31&theme=tokyonight&show_icons=true" /></a>
 </p>
 
+<p align="center"><a href="https://github.com/myname31"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myname31&theme=radical&layout=compact"></a></p> 
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myname31&layout=compact)](https://github.com/myname31/github-readme-stats)
 -->
