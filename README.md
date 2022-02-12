@@ -8,7 +8,7 @@
 
 <p align="center"><a href="https://github.com/myname31"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myname31&theme=radical&layout=compact"></a></p> 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=myname31&repo=Random)](https://github.com/myname31/Random)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=myname31&repo=Random)](https://github.com/myname31/Random)](https://github.com/myname31/Random)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myname31&layout=compact)](https://github.com/myname31/github-readme-stats)
 -->
