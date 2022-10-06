@@ -11,9 +11,9 @@
 <p align="center">
   <a href="https://github.com/myname31"><img src="https://github-readme-stats.vercel.app/api?username=myname31&theme=tokyonight&show_icons=true" /></a>
 </p>
-
+<!--
 ![https://github-readme-stats.vercel.app/api?username=myname31&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e](https://github-readme-stats.vercel.app/api?username=myname31&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e)
-
+-->
 <!--
 <p align="center"><a href="https://github.com/myname31"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myname31&theme=radical&layout=compact"></a></p> 
 -->
